@@ -1,2 +1,1 @@
-# snippets
-Collection of software and script snippets collected over time.
+Collection of scripts and samples accumulated over time.
