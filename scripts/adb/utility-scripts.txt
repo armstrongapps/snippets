@@ -1,0 +1,8 @@
+Install app from local directory to device
+adb install appname.apk
+
+Push file from local directory to device
+adb push /src/file.ext /dest/file.ext
+
+Pull file from device to local directory
+adb pull /src/file.ext /dest/file.ext
